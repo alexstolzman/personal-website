@@ -8,7 +8,7 @@ export default function Projects(){
     return(
         <div>
             <h1>Projects</h1>
-            <ul>
+            <ul className="projects">
                 {projects.map((project)=>
                 <li id={project.name}>
                     <Link to={project.name}>{project.name}</Link>
