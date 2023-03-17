@@ -11,7 +11,7 @@ export default function Projects(){
             <ul className="projects">
                 {projects.map((project)=>
                 <li id={project.name}>
-                    <Link to={project.name}>{project.name}</Link>
+                    <Link id={project.name} to={project.name}>{project.name}</Link>
                 </li>
             )}
             </ul>

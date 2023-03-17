@@ -10,6 +10,7 @@ import Interests from './Interests'
 import { Route, Routes } from 'react-router-dom'
 
 import '../style/App.css';
+import Confirmation from './Confirmation';
 
 function App() {
   return (
@@ -24,7 +25,7 @@ function App() {
         </Route>
         <Route path="contact" element={ <Contact /> } />
         <Route path="interests" element={ <Interests /> } />
-        
+        <Route path="confirmed" element={ <Confirmation /> }/>
       </Routes>
     </div>
   );
