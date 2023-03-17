@@ -1,3 +1,25 @@
+Personal Website Template
+
+I implemented a basic multi-page website to get more familiar with React Router. It currently is barebones and would need some more styling and logic for actual use(mainly in actually implementing the contact method properly).
+
+
+![image](https://user-images.githubusercontent.com/47224184/225948991-ac1df818-20d7-4aed-ac2e-49d0a296d890.png)
+
+![image](https://user-images.githubusercontent.com/47224184/225949196-9daa6daa-2d7b-4e33-a15e-720777ad1d2c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
